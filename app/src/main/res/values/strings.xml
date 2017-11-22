@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Birthday App</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="mainPage">Pick Your Birthdate</string>
+    <string name="Astro_sign">Astrological Sign</string>
+    <string name="Birth_stone">Birth Stone</string>
+    <string name="Ayurvedic">Ayurvedic</string>
+    <string name="button4">Button4</string>
+    <string name="button5">Button5</string>
+    <string name="title_activity_birthstones">Birthstones</string>
+
+</resources>
